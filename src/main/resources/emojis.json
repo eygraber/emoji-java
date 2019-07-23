@@ -11817,6 +11817,15 @@
     "tags": []
   },
   {
+    "emojiChar": "🤬",
+    "emoji": "\ud83e\udd2c",
+    "description": "face with symbols on mouth",
+    "aliases": [
+      "swearing"
+    ],
+    "tags": []
+  },
+  {
     "emojiChar": "🤖",
     "emoji": "\uD83E\uDD16",
     "description": "robot face",
